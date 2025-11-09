@@ -1,0 +1,4 @@
+Gilbert:
+    Finished half of the jupyter lab as well as created the github repo 
+Kareena:
+Shaan:
